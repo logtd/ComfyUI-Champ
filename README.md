@@ -28,5 +28,4 @@ You can find an example workflow in the `example_workflows` directory
 ## TODO
 
 * SMPL model generation and other alternate preprocessors
-* Multi-Layer Motion Fusion (MLMF)
 * Parametric Shape Alignment (w/o smoothing)
